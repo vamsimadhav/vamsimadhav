@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vamsimadhav2000@gmail.com**
 
-- 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/19IQ6FAqQJOwVd5WRO4x_nrbPcCyix6jU/view)
+- 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1mJMlAWTrnPlTEVa9uE-Qmgy1DtMIlGDg/view?usp=share_link)
 
 - ⚡ Fun fact **I love to read manga and web novels 😃**
 
