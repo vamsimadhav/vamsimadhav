@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif" />
 
 ## Introducing an Android Developer from India, with a flair for crafting exceptional mobile applications and an undeniable love for manga. 
-- 🔭 I’m currently working on [2D Android Game](https://github.com/vamsimadhav/2D-Android-Game) 
+- 🔭 I’m currently working on [Keddit](https://github.com/vamsimadhav/Keddit) 
 - 🌱 I’m currently learning about being a Kotlin Developer @Hyperskill and Meta Certification @Coursera 
 - 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1PwuwRj4ahkCvNx8UimXrx1BIgOlEvDu1/view?usp=share_link)
 - ⚡ Fun fact I love to read manga and web novels 😃
